@@ -6,4 +6,5 @@ tags:
   - variables
   - default arguments
 resources: 1
+def say_hello.ruby
 
